@@ -1,9 +1,8 @@
 # ourKairos
 
-1. Install Node.js 18 or newer.
-2. Install pnpm 10 or newer.
-3. Run `pnpm install`.
-4. Run `pnpm check:workspace`.
+## Shared contracts
+
+The repository includes a framework-agnostic contracts package in `packages/contracts` for request and response payload definitions shared across future apps and services.
 
 ## Workspace scripts
 
