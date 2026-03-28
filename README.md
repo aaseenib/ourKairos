@@ -1,7 +1,5 @@
 # ourKairos
 
-## Local setup
-
 1. Install Node.js 18 or newer.
 2. Install pnpm 10 or newer.
 3. Run `pnpm install`.
