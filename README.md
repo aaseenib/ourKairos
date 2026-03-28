@@ -1,11 +1,5 @@
 # ourKairos
 
-## Reference templates
-
-## Reference templates
-
-The repository includes a merge-safe web API client template in `tooling/web-api-client-template`.
-
 ## Local setup
 
 1. Install Node.js 18 or newer.
